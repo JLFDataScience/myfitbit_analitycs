@@ -1,11 +1,11 @@
 # myfitbit_analitycs
-Este proyecto trata de desarrollar un análisis de los datos registrados por mi pulsera fitbit durante 30 meses. El proyecto se ha dividido en 4 fases desde la carga de los datos, el análisis propiamente dicho, hasta el contraste de hiótesis.
+This project tries to develop an analysis of the data recorded by my fitbit wristband for 30 months. The project has been divided into 4 phases from the loading of the data, the data analysis, to the contrast of hythoses and future challenges.
 
 ## Index 🔍
 1. Loading and Reading Data  
     1.1 API Access fitbit  
-    1.2 Csv Access
-        1.2.1 Manage physical activity csv  
+    1.2 Csv Access  
+        1.2.1 Manage physical activity csv   
         1.2.2 Manage sleep csv records  
     1.3 Join dataframe  
 
@@ -22,4 +22,4 @@ Este proyecto trata de desarrollar un análisis de los datos registrados por mi 
 3. Hypothesis contrast  
 
 
-4. Future Challenges
+4. Future Challenges  
